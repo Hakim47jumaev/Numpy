@@ -557,3 +557,7 @@ import pandas as pn
 # ax[1].imshow(binary,  cmap = 'gray')
 # ax[1].set_title('После')
 # plt.show()
+
+
+
+print("hello world")
